@@ -75,7 +75,7 @@ SOFTWARE.
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <eo-kafka.version>0.0.2</eo-kafka.version>
+    <eo-kafka.version>0.1.2</eo-kafka.version>
     <maven-surefire-plugin.version>3.0.0</maven-surefire-plugin.version>
     <maven-verifier-plugin.version>1.1</maven-verifier-plugin.version>
     <jtcop.version>0.1.9</jtcop.version>
